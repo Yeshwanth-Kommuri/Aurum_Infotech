@@ -67,8 +67,7 @@ const Footer = () => {
             <address className="not-italic text-gray-300 space-y-2">
               <p>8825 Preakness Dr Florence</p>
               <p>KY 41042, USA</p>
-              <p>Phone: +1 (248) 989-9922</p>
-              <p>Email: yeshwanthkommuri@gmail.com</p>
+              <p>Phone: +1 (828) 548-3268</p>
             </address>
           </div>
         </div>
