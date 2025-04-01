@@ -117,7 +117,7 @@ const Contact = () => {
           <div className="lg:col-span-1 space-y-8">
             {[
               { icon: <MapPin className="text-aurum-gold" size={24} />, title: 'Our Location', details: '8825 Preakness Dr Florence KY 41042' },
-              { icon: <Phone className="text-aurum-gold" size={24} />, title: 'Phone Number', details: '+1 (248) 989-9922' },
+              { icon: <Phone className="text-aurum-gold" size={24} />, title: 'Phone Number', details: '+1 (828) 548-3268' },
             ].map((item, index) => (
               <div 
                 key={item.title} 
